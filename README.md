@@ -19,14 +19,23 @@ If you want to contact me you can reach me at [linkedin](https://www.linkedin.co
 # Prerequisites
 
 Software Requirements:
+
 • Operating System- Windows 10
+
 • Py libraries -OpenCV, Pandas, CSV
+
 • Front End-Python( version-3)
+
 Hardware Requirements:
+
 • Processor-Intel
+
 • Processor type-Core i3
+
 • RAM-2GB
+
 • Hard Drive
+
 • Camer
 
 
